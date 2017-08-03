@@ -1,0 +1,5 @@
+{
+    "require": {
+        "tangocard/raas": "^1.1"
+    }
+}
